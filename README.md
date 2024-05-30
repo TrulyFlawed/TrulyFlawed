@@ -1,25 +1,30 @@
 # Hiya! I'm TrulyFlawed
 
-I am a beginner programmer from the United States and relatively new to GitHub. I'm hoping to learn more about development and programming so I can contribute more to open source software. I believe in an open internet that doesn't need people to rely on proprietary, monetized software just to do basic things.
+## Overview
 
-## Other Info About Me
-### Here are some open source projects that I think are pretty interesting:
-- [TagStudio](https://github.com/TagStudioDev/TagStudio)
-- [Ente Authenticator](https://github.com/ente-io/ente)
-- [Revolt](https://github.com/revoltchat)
-- [BitWarden](https://github.com/bitwarden)
+### About Me
+I am a transfem and beginner programmer from the United States who is relatively new to GitHub. I'm hoping to learn more about the development and programming process so I can contribute to open source software. I believe in an free, open, and accessible internet that doesn't induce the necessity of relying on proprietary, monetized software just to do even the most basic things.
 
-### I am currently learning:
-- HTML5
-- CSS3
-- Javascript
+If you notice that my code is not fast, inaccessible, or otherwise suboptimal then I implore you to reach out to me to so that you may express your concerns. If you wish to reach out to me in regards to advice in code, documentation, or other means then feel free to contact me. (I will add contact details eventually, for now, just attempt to contact me through GitHub.)
 
-### I am currently working on:
-- Developing some mods for Hearts of Iron IV
-- Contributing the Hearts of Iron IV Wiki
-- Improving my frontend development skills
-- Finding more cool open source projects
-- Learning about managing GitHub repositories
+## General Information
+### Open Source Projects I Find Interesting:
+- [TagStudio](https://github.com/TagStudioDev/TagStudio) - A free, open source file management software focused on providing a robust and powerful tagging system.
+- [Ente Authenticator](https://github.com/ente-io/ente) - A free, open source two-factor authentication (2FA) app that provides users with security and privacy for their accounts.
+- [Revolt Chat](https://github.com/revoltchat) - A free, open source chat app alternative to Discord, focusing on security, privacy, and openness.
+- [BitWarden](https://github.com/bitwarden) - A free, open source password storage and management software.
+
+### Languages I Am Currently Learning:
+- HTML5 - My skills in this language are average.
+- CSS3 - My skills in this language are average.
+- Javascript - My skills in this language are practically nonexistent.
+
+### Projects and Side Quests I Am Doing:
+- Improving my frontend development skills.
+- Finding more cool open source projects.
+- Learning about managing GitHub repositories.
+- Learning more about documenting code.
+- Developing a Hearts of Iron IV mod.
 
 ---
 
