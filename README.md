@@ -13,6 +13,7 @@ If you notice that my code is not fast, inaccessible, or otherwise suboptimal th
 - [Ente Authenticator](https://github.com/ente-io/ente) - A free, open source two-factor authentication (2FA) app that provides users with security and privacy for their accounts.
 - [Revolt Chat](https://github.com/revoltchat) - A free, open source chat app alternative to Discord, focusing on security, privacy, and openness.
 - [BitWarden](https://github.com/bitwarden) - A free, open source password storage and management software.
+- [CommitMono](https://github.com/eigilnikolajsen/commit-mono) - A free, open source monospace font (useful for programming, I like the font a lot).
 
 ### Languages I Am Currently Learning:
 - HTML5 - My skills in this language are average.
