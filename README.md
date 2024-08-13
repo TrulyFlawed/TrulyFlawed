@@ -1,7 +1,5 @@
-# Hiya! I'm TrulyFlawed
-
 ## About Me
-I am a transfem and beginner programmer from the United States who is relatively new to GitHub. I'm hoping to learn more about the development and programming process so I can contribute to open source software. I believe in an free, open, and accessible internet that doesn't induce the necessity of relying on proprietary, monetized software just to do even the most basic things.
+I'm TrulyFlawed, a transfem and beginner programmer from the United States who is relatively new to GitHub. I'm hoping to learn more about the development and programming process so I can contribute to open source software. I believe in an free, open, and accessible internet that doesn't induce the necessity of relying on proprietary, monetized software just to do even the most basic things.
 
 If you notice that my code is not fast, inaccessible, or otherwise suboptimal then I implore you to reach out to me to so that you may express your concerns. If you wish to reach out to me in regards to advice in code, documentation, or other means then feel free to contact me. (I will add contact details eventually, for now, just attempt to contact me through GitHub.)
 
