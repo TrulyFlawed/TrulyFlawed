@@ -9,7 +9,6 @@ If you notice that my code is not fast, inaccessible, or otherwise suboptimal th
 - [BitWarden](https://github.com/bitwarden) - A free, open source password storage and management software.
 - [TagStudio](https://github.com/TagStudioDev/TagStudio) - A free, open source file management software focused on providing a robust and powerful tagging system.
 - [Revolt Chat](https://github.com/revoltchat) - A free, open source chat app alternative to Discord, focusing on security, privacy, and openness.
-- [Shinigami Eyes](https://github.com/shinigami-eyes/shinigami-eyes) - An extension that highlights pro-trans and anti-trans users.
 - [Commit Mono](https://github.com/eigilnikolajsen/commit-mono) - A free, open source monospace font (useful for programming, I like the font a lot).
 - [Inter](https://github.com/rsms/inter) - A free, open source font (I think the font is cool, that's it really).
 
