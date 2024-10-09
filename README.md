@@ -19,13 +19,13 @@ This list needs to be updated, but eventually I may have a separate repository f
 
 | Name | Description |
 | ---- | ----------- |
-| [Privacy Guides](https://www.privacyguides.org/en/) | A free, open source resource on how to become more private online. |
-| [Ente Auth](https://github.com/ente-io/ente) | A free, open source two-factor authentication (2FA) app that provides users with security and privacy for their accounts. |
-| [Bitwarden](https://github.com/bitwarden) | A free, open source password storage and management software. |
-| [TagStudio](https://github.com/TagStudioDev/TagStudio) | A free, open source file management software focused on providing a robust and powerful tagging system. |
-| [Revolt Chat](https://github.com/revoltchat) | A free, open source chat app alternative to Discord, focusing on security, privacy, and openness. |
-| [Commit Mono](https://github.com/eigilnikolajsen/commit-mono) | A free, open source monospace font (useful for programming, I like the font a lot). |
-| [Inter](https://github.com/rsms/inter) | A free, open source font (I think the font is cool, that's it really). |
+| [Privacy Guides](https://www.privacyguides.org/en/) | A community-driven, online resource for internet privacy. |
+| [Ente Auth](https://github.com/ente-io/ente) | A two-factor authentication (2FA) app. |
+| [Bitwarden](https://github.com/bitwarden) | A password manager. |
+| [TagStudio](https://github.com/TagStudioDev/TagStudio) | A file management software focused on providing a robust and powerful tagging system. |
+| [Revolt Chat](https://github.com/revoltchat) | A messaging app alternative to Discord, focusing on security, privacy, and openness. |
+| [Commit Mono](https://github.com/eigilnikolajsen/commit-mono) | A monospace font. |
+| [Inter](https://github.com/rsms/inter) | A font (I think the font is cool, that's it really). |
 
 ## Languages
 
