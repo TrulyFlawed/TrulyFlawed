@@ -17,12 +17,12 @@ I recommend email as the primary method of communication at first, as I will lik
 
 Being relatively new to programming and web development, I don't have much to show yet. But here is a table of languages I have used, and my own level of confidence in regards to skill in that language:
 
-| Language | Confidence in My Own Skills |
-| -------- | --------------------------- |
-| HTML | My skills in this language are pretty good (it's hard to be "bad" at HTML, really). |
-| CSS | My skills in this language are intermediate at best. |
-| Javascript | My skills in this language are beginner, but not completely nonexistent. |
-| Python | My skills here are very limited, as most of my attention is focused on the web. |
+| Icon | Language | Confidence in My Own Skills |
+| ---- | -------- | --------------------------- |
+| <img height="32" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"> | HTML | My skills in this language are pretty good (it's hard to be "bad" at HTML, really). |
+| <img height="32" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"> | CSS | My skills in this language are intermediate at best. |
+| <img height="32" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"> | Javascript | My skills in this language are beginner, but not completely nonexistent. |
+| <img height="32" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"> | Python | My skills here are very limited, as most of my attention is focused on the web. |
 
 I have a lot of work ahead of me if I want to actually get a career in software development.
 
@@ -51,5 +51,7 @@ This list needs to be updated, but eventually I may have a separate repository f
 | [Inter](https://github.com/rsms/inter) | A font (I think the font is cool, that's it really). |
 
 ---
+
+Kudos to the folks at [Profile Technology Icons](https://github.com/marwin1991/profile-technology-icons) for providing programming language icons for use.
 
 That's all I have to say for now, baiiiiiiiiii :3
