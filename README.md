@@ -28,7 +28,7 @@ I have a lot of work ahead of me if I want to actually get a career in software 
 
 ## Current Projects/Side Quests:
 
-My current main project is this [theme site](https://trulyflawed.github.io/Theme-Switcher/) where I'm experimenting with the technical implementations of theming on websites.
+My current main project is this [theme site](https://trulyflawed.github.io/Theme-Manager/) where I'm experimenting with the technical implementations of theming on websites.
 
 The following are side quests that I intend to figure out later:
 
