@@ -34,7 +34,7 @@ The following are side quests that I intend to figure out later:
 
 - Learning about managing GitHub repositories.
 - Learning more about documenting code.
-- Developing a Hearts of Iron IV mod. (Currently on hold while I wait for the next DLC to release.)
+- Developing a Hearts of Iron IV mod. (Currently on hold for when I eventually get back into playing the game.)
 
 ## Open Source Projects I Find Interesting:
 
