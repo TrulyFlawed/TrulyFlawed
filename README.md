@@ -23,6 +23,7 @@ Being relatively new to programming and web development, I don't have much to sh
 | <img height="32" src="https://raw.githubusercontent.com/CSS-Next/logo.css/48f24dccd4e169118d17bab998c3d276e95167df/css.svg"> | CSS | My skills in this language are intermediate at best. |
 | <img height="32" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"> | Javascript | My skills in this language are beginner, but not completely nonexistent. |
 | <img height="32" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"> | Python | My skills here are very limited, as most of my attention is focused on the web. |
+| <img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png"> | C | I am currently learning it. I have a lot more to learn still. |
 
 I have a lot of work ahead of me if I want to actually get a career in software development.
 
