@@ -8,7 +8,7 @@ If you notice that my code is not fast, inaccessible, or otherwise suboptimal th
 
 Contacting me may be done through the following methods:
 
-- Emailing me at `trulyflawed@gmail.com`. (Recommended as the first option.)
+- Emailing me at `duskfall.personal@protonmail.com`. (Recommended as the first option.)
 - Messaging me on Discord. (I will not make my username public for now; if I know you enough I am fine with you asking me for my username.)
 
 I recommend email as the primary method of communication at first, as I will likely interpret "random" message/friend requests on Discord as potential spam or scams. Not that you have much choice, I haven't even shared the username (yet).
