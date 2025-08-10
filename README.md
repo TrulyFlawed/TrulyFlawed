@@ -8,6 +8,7 @@ If you notice that my code is not fast, inaccessible, or otherwise suboptimal th
 
 Contacting me may be done through the following methods:
 
+- Messaging me on Matrix at `duskhasfallen:matrix.org`.
 - Emailing me at `duskfall.personal@protonmail.com`.
 - Messaging me on any of my socials. I apologize if I do not get back to you super quickly, but I will try my best.
 
