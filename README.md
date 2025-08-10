@@ -4,7 +4,7 @@ I'm TrulyFlawed, a transfem and beginner programmer from the United States. I'm 
 
 ### Contact
 
-If you notice that my code is not fast, inaccessible, or otherwise suboptimal then I implore you to reach out to me to so that you may express your concerns. If you wish to reach out to me in regards to advice in code, documentation, or other means then feel free to contact me.
+If you notice that my code is slow, inaccessible, or otherwise suboptimal then I implore you to reach out to me to so that you may express your concerns. If you wish to reach out to me in regards to advice in code, documentation, or other means then feel free to contact me.
 
 Contacting me may be done through the following methods:
 
@@ -12,7 +12,7 @@ Contacting me may be done through the following methods:
 - Emailing me at `duskfall.personal@protonmail.com`.
 - Messaging me on any of my socials. I apologize if I do not get back to you super quickly, but I will try my best.
 
-I recommend email as the primary method of communication at first, as I will likely interpret "random" message/friend requests on Discord as potential spam or scams. Not that you have much choice, I haven't even shared the username (yet).
+That last is in order of my general preference, but try using email over socials if possible.
 
 ## Languages
 
