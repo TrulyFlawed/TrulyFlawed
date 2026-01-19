@@ -32,20 +32,6 @@ The following are side quests that I intend to figure out later:
 
 - Learning about managing GitHub repositories.
 - Learning more about documenting code.
-- Developing a Hearts of Iron IV mod. (Currently on hold for when I eventually get back into playing the game.)
-
-## Open Source Projects I Find Interesting:
-
-This list needs to be updated, but eventually I may have a separate repository for something like this to help declutter this profile README.
-
-| Name | Description |
-| ---- | ----------- |
-| [Privacy Guides](https://www.privacyguides.org/en/) | A community-driven, online resource for internet privacy. |
-| [Ente Auth](https://github.com/ente-io/ente) | A two-factor authentication (2FA) app. |
-| [Bitwarden](https://github.com/bitwarden) | A password manager. |
-| [TagStudio](https://github.com/TagStudioDev/TagStudio) | A file management software focused on providing a robust and powerful tagging system. |
-| [Commit Mono](https://github.com/eigilnikolajsen/commit-mono) | A monospace font. |
-| [Inter](https://github.com/rsms/inter) | A font (I think the font is cool, that's it really). |
 
 ---
 
